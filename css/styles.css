@@ -1,0 +1,26 @@
+body {
+  margin: 0%;
+  text-align: center;
+}
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 50px;
+}
+.cloud1 {
+  position: absolute;
+  top: 150px;
+}
+.cloud2 {
+  position: absolute;
+  left: 600px;
+
+  top: 50px;
+}
+.name {
+  font-family: "Satisfy", cursive;
+}
+.desig {
+  font-family: "Roboto Mono", monospace;
+  font-weight: bolder;
+}
